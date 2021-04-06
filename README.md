@@ -1,6 +1,4 @@
-# oracle-hr-db-sample-schemas-ms-sql-server
-Oracle Human Resources Database Sample Schemas for Microsoft Sql Server (ms sql server)
-
+# Oracle Human Resources Database Sample Schemas for Microsoft Sql Server (ms sql server)
 
 
 The following script creates the HR sample database structure in Microsoft SQL Server.
